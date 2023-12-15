@@ -1,3 +1,3 @@
 # final-mobile-Movie  
 
-https://developer.themoviedb.org    
+https://api.themoviedb.org    
